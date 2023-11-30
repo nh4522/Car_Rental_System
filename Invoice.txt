@@ -1,7 +1,1 @@
-Name:hasib	Car:Hiace	Days:3	Total($):196.8	Discount($):0
-Name:saief	Car:Premio	Days:5	Total($):280	Discount($):0
-Name:hasib	Car:Noah	Days:9	Total($):679.5	Discount($):0
-Name:hasibur rahman	Car:Premio	Days:20	Total($):1120	Discount($):0
-Name:hasibur	Car:Premio	Days:20	Total($):1120	Discount($):0
-Name:hasib	Car:Premio	Days:20	Total($):1120	Discount($):0
-Name:hasibur	Car:Premio	Days:2	Total($):112	Discount($):0
+
