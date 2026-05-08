@@ -58,7 +58,7 @@ This is a terminal-based car rental management system written in C++. It allows 
 4. Rent History
 5. Developer info
 6. Exit
-<br>
+
 ![Screenshot](pics/mainMenu.PNG)
 
 ## 2. Rent a car
@@ -67,14 +67,14 @@ This is a terminal-based car rental management system written in C++. It allows 
 - Choose a car from the numbered list
 - Enter rental days (positive integer)
 - Invoice is displayed and saved to `Invoice.txt`
-<br>
+
 ![Screenshot](pics/rentCar.PNG)
 
 ## 3. Change Password
 - Enter current password
 - Set and confirm new password
 - Updated password written to `cars pass.txt`
-<br>
+
 ![Screenshot](pics/password.PNG)
 
 ## 4. Add New Car
@@ -82,18 +82,18 @@ This is a terminal-based car rental management system written in C++. It allows 
 - Displays current car list
 - Prompts for new car name and daily rate
 - Appends to `cars.txt`
-<br>
+
 ![Screenshot](pics/carUpdate.PNG)
 
 ## 5. Rent History
 - Password required
 - Prints all past invoices from `Invoice.txt`
-<br>
+
 ![Screenshot](pics/rentHistory.PNG)
 
 ## 6. Exit
 - Terminates the program
-<br>
+
 
 ## Sample Invoice 
 ![Screenshot](pics/invoice.PNG)
